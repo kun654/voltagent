@@ -1,6 +1,6 @@
 # with-anthropic
 
-An [VoltAgent](https://github.com/VoltAgent/voltagent) application.
+A [VoltAgent](https://github.com/VoltAgent/voltagent) application.
 
 ## Getting Started
 
